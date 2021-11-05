@@ -14,13 +14,17 @@
     <bytecodeTargetLevel>
       <module name="pet-clinic" target="11" />
       <module name="pet-clinic-data" target="11" />
+      <module name="pet-clinic-dataa" target="11" />
       <module name="pet-clinic-web" target="11" />
+      <module name="pet-clinic-webb" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="pet-clinic-data" options="-parameters" />
+      <module name="pet-clinic-dataa" options="-parameters" />
       <module name="pet-clinic-web" options="-parameters" />
+      <module name="pet-clinic-webb" options="-parameters" />
     </option>
   </component>
 </project>
