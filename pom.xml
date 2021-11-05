@@ -4,7 +4,7 @@
 
     <groupId>com.meski</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.6-SNAPSHOT</version>
+    <version>0.0.6</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -51,7 +51,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/meski17/pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>pet-clinic-0.0.6</tag>
   </scm>
 
 </project>
