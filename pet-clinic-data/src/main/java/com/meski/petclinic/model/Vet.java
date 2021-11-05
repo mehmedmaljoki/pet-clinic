@@ -1,5 +1,5 @@
 package com.meski.petclinic.model;
 
-public class Vet extends Person{
+public class Vet extends Person {
 
 }
