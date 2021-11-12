@@ -20,15 +20,13 @@ r
 Bpet-clinic-data/src/main/java/com/meski/petclinic/model/Owner.java,5\1\51c68737b93e0fd8c9e54837e0bb8fbd519a0945
 s
 Cpet-clinic-data/src/main/java/com/meski/petclinic/model/Person.java,d\c\dc0ec99dc432f2590ac992ad8f21341465ab6dea
-p
-@pet-clinic-data/src/main/java/com/meski/petclinic/model/Pet.java,6\b\6b106398667c0f604f7bf7d7d29a156042255d05
 t
 Dpet-clinic-data/src/main/java/com/meski/petclinic/model/PetType.java,0\f\0f56e7758699b798ba9c8497f892b72a17cdcf36
 p
 @pet-clinic-data/src/main/java/com/meski/petclinic/model/Vet.java,0\3\039786fb2c47227527fdb8ee9a790a17321a9a60
-|
-Lpet-clinic-data/src/main/java/com/meski/petclinic/services/OwnerService.java,4\6\469d3b918c609c8556fef65d608f6ba44d29ea9d
 z
 Jpet-clinic-data/src/main/java/com/meski/petclinic/services/PetService.java,8\b\8bc15ecf20fc2b0b72c607c664d65954e5cb95db
 z
 Jpet-clinic-data/src/main/java/com/meski/petclinic/services/VetService.java,a\b\ab140ab8f91f1603aa7ee2abef583bd1687d6702
+{
+Kpet-clinic-data/src/main/java/com/meski/petclinic/services/CrudService.java,9\4\948352bd805fb873f386e06426560ddaf96ba6cc
