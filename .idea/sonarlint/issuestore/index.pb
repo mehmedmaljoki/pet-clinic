@@ -14,8 +14,6 @@ Jpet-clinic-web/src/main/java/com/meski/petclinic/PetClinicApplication.java,6\9
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 z
 Jpet-clinic-data/src/main/java/com/meski/petclinic/services/PetService.java,8\b\8bc15ecf20fc2b0b72c607c664d65954e5cb95db
-z
-Jpet-clinic-data/src/main/java/com/meski/petclinic/services/VetService.java,a\b\ab140ab8f91f1603aa7ee2abef583bd1687d6702
 {
 Kpet-clinic-data/src/main/java/com/meski/petclinic/services/CrudService.java,9\4\948352bd805fb873f386e06426560ddaf96ba6cc
 G
